@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1639806880 source:c:\users\abrah\desktop\simple harmonic oscillator\main.cpp
-	<iostream>
-	<stdlib.h>
-	<fstream>
-	<math.h>
-
