@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1633107568 source:c:\users\abrah\desktop\random_numbers\main.cpp
-	<iostream>
-	<stdlib.h>
-	<stdio.h>
-	<fstream>
-	<iomanip>
-
