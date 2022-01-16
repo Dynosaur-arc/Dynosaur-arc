@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633154945 source:c:\users\abrah\desktop\monte_carlo_integraion\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
